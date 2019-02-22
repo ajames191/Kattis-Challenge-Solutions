@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/QuadrantSelection.iml" filepath="$PROJECT_DIR$/QuadrantSelection.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Quadrants.iml" filepath="$PROJECT_DIR$/Quadrants.iml" />
     </modules>
   </component>
 </project>
