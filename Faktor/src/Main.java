@@ -7,10 +7,10 @@ public class Main {
         System.out.println(solve(scan.nextInt(),scan.nextInt()));
     }
 
-    public static double solve(int numArticles, int requiredImpactFactor) {
+    public static int solve(int numArticles, int requiredImpactFactor) {
 
         double value = requiredImpactFactor - 1 + 0.01;
-        return roundUp(value * numArticles);
+        return (int) roundUp(value * numArticles);
 
     }
 
